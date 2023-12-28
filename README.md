@@ -14,12 +14,17 @@
 [Last commit](https://github.com/housesaroma/OPD/commit/09db538e8c160e52fa09b2f5faf91fe43bf39189)
 ## Презентация
 [Доклад](https://docs.google.com/document/d/18UuBuMyAX64_7WTGhSaEx_L1bF8-Fva9P8ou-vg1t78/edit?usp=sharing)
+
 [Google docs](https://docs.google.com/presentation/d/1Mlsv3YPaEQykB2VRMzoc-9_QMmgmlA3faxBO47Le7ZE/edit?usp=sharing)
 ## Видео презентация
 [YouTube](https://youtu.be/WGAg7lrksBo)
 ## Ссылка на скачивание
 [Windows](https://drive.google.com/file/d/1kb5kuAEumJ9h2I84978UI5KFotdh-XRg/view?usp=sharing)
+
 [Mac](https://drive.google.com/file/d/1gHGmcxPbJEIhyveX6ytb0vvW8OTsl8IS/view?usp=sharing)
+
 [Linux](https://drive.google.com/file/d/1drayUKplpyReMSJciAOBILzHnDHKbm3A/view?usp=sharing)
+
 [Pc](https://drive.google.com/file/d/1wmHVbASOJw1RDp47O0l695LDui0y_OFS/view?usp=sharing)
+
 [Market](https://drive.google.com/file/d/14zqevwGDjqUs5jJQZP-5-1VX0BhwP23q/view?usp=sharing)
