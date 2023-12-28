@@ -18,7 +18,7 @@
 [Google docs](https://docs.google.com/presentation/d/1Mlsv3YPaEQykB2VRMzoc-9_QMmgmlA3faxBO47Le7ZE/edit?usp=sharing)
 ## Видео презентация
 [YouTube](https://youtu.be/WGAg7lrksBo)
-## Ссылка на скачивание
+## Ссылка на скачивание новеллы
 [Windows](https://drive.google.com/file/d/1kb5kuAEumJ9h2I84978UI5KFotdh-XRg/view?usp=sharing)
 
 [Mac](https://drive.google.com/file/d/1gHGmcxPbJEIhyveX6ytb0vvW8OTsl8IS/view?usp=sharing)
