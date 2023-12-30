@@ -5,9 +5,9 @@
 ## Сценарий
 [Доска на Miro](https://miro.com/app/board/uXjVNY_KdcI=/)
 
-[Сценарий Максимилиана](https://docs.google.com/document/d/1hZNzggJlDqKlItIQQLF0t6G42SSx6AKj/edit?usp=sharing&ouid=114847528379046208237&rtpof=true&sd=true)
+[Сценарий Максимилиана](https://docs.google.com/document/d/12zmhqu9QPhPWFGGPD23sxGXrzPwmlOsQ/edit?usp=sharing&ouid=114847528379046208237&rtpof=true&sd=true)
 
-[Сценарий Гены](https://docs.google.com/document/d/1TDM2zQmRL-va-WBMjE31ZHgJ0qrF0LE3/edit?usp=sharing&ouid=114847528379046208237&rtpof=true&sd=true)
+[Сценарий Гены](https://docs.google.com/document/d/1ja59fJBn-LXaEaEmsokwnnCGSh3CYQPp/edit?usp=sharing&ouid=114847528379046208237&rtpof=true&sd=true)
 ## Дизайн
 [Figma](https://www.figma.com/file/g8q9RKqNi0VrZXyFx6jPD5/%D0%9E%D0%9F%D0%94?type=whiteboard&node-id=1%3A489&t=lg5rdLQ7CPrEBTfc-1)
 ## Код разработчика
